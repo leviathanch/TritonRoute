@@ -35,8 +35,10 @@
 #include <string>
 #include <utility>
 
+#include <boost/geometry.hpp>
 #include <boost/geometry/geometries/point_xy.hpp>
 #include <boost/geometry/geometries/box.hpp>
+#include <boost/geometry/geometries/segment.hpp>
 
 namespace fr {
   using frLayerNum = int;

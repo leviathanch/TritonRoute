@@ -28,6 +28,7 @@
 
 #include <chrono>
 #include <fstream>
+#include <iomanip>
 #include <boost/io/ios_state.hpp>
 #include "frProfileTask.h"
 #include "dr/FlexDR.h"

@@ -32,6 +32,7 @@
 #include <chrono>
 #include <algorithm>
 #include <random>
+#include <sstream>
 #include <boost/polygon/polygon.hpp>
 
 using namespace std;
